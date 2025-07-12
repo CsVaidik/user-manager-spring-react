@@ -1,3 +1,4 @@
+
 <div align="justify">
 
   # 🔐 UserManager – Full-Stack User Authentication System
@@ -11,23 +12,31 @@
 
 ## 👀 Glimpse Of Project
 
-### 🎞️ Live Demo Preview (GIF)
+<div align="center">
 
-![UserManager Demo](Glimpse.gif)
+<h3>🎞️ Live Demo Preview (GIF)</h3>
+
+<img src="Glimpse.gif" alt="UserManager Demo" width="600"/>
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
+  
   <b>🔐 Login Page – Stylish & Secure</b><br/>
+  
   <img src="https://github.com/user-attachments/assets/e64b3f47-d116-419e-87a6-154e28d8e783" width="500" />
   <br/><br/>
+  
   <b>📝 Registration Page – Responsive & User-Friendly</b><br/>
   <img src="https://github.com/user-attachments/assets/9703747d-4756-499d-83f2-37d47ef8c7fd" width="500" />
   <br/><br/>
+  
   <b>🌐 Dashboard View – Clean UI with Real-Time Clock</b><br/>
   <img src="https://github.com/user-attachments/assets/5e0adaf3-b896-4997-93ec-21f7b259498a" width="500" />
-</p>
-
+  
+</div>
 
 
 ## ✨ Features  
@@ -79,4 +88,5 @@ npm start  # Runs on http://localhost:3000
 ### 📜 License
 - MIT © Vaidik Vedant
 
+  
 </div>
